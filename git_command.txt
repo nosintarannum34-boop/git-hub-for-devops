@@ -1,0 +1,7 @@
+  28 Git commit -m "Added testing file"                                                                                                                                          
+  29 Git status                                                                                                                                                                  
+  30 Rm testing.py                                                                                                                                                               
+  31 Restore testing.py.                                                                                                                                                         
+  32 Git restore testing.py                                                                                                                                                      
+  33 Clear.                                                                                                                                                                      
+  34 Clear         
